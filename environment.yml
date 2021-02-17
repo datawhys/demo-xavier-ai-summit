@@ -26,6 +26,8 @@ dependencies:
   - chardet=4.0.0=py38h578d9bd_1
   - charls=2.2.0=h9c3ff4c_0
   - cloudpickle=1.6.0=py_0
+  - conda=4.9.2=py38h578d9bd_0
+  - conda-package-handling=1.7.2=py38h8df0ef7_0
   - cryptography=3.4.4=py38h3e25421_0
   - cycler=0.10.0=py_2
   - cytoolz=0.11.0=py38h497a2fe_3
@@ -111,7 +113,7 @@ dependencies:
   - olefile=0.46=pyh9f0ad1d_1
   - openjpeg=2.4.0=hf7af979_0
   - openpyxl=3.0.6=pyhd8ed1ab_0
-  - openssl=1.1.1i=h7f98852_0
+  - openssl=1.1.1j=h7f98852_0
   - packaging=20.9=pyh44b312d_0
   - pandoc=2.11.4=h7f98852_0
   - pandocfilters=1.4.2=py_1
@@ -127,6 +129,7 @@ dependencies:
   - prompt-toolkit=3.0.16=pyha770c72_0
   - pthread-stubs=0.4=h36c2ea0_1001
   - ptyprocess=0.7.0=pyhd3deb0d_0
+  - pycosat=0.6.3=py38h497a2fe_1006
   - pycparser=2.20=pyh9f0ad1d_2
   - pygments=2.7.4=pyhd8ed1ab_0
   - pyopenssl=20.0.1=pyhd8ed1ab_0
@@ -144,6 +147,7 @@ dependencies:
   - qt=5.9.7=h0c104cb_3
   - readline=8.0=he28a2e2_2
   - requests=2.25.1=pyhd3deb0d_0
+  - ruamel_yaml=0.15.80=py38h497a2fe_1004
   - scikit-image=0.18.1=py38h51da96c_0
   - scipy=1.6.0=py38hb2138dd_0
   - seaborn=0.11.1=hd8ed1ab_1
